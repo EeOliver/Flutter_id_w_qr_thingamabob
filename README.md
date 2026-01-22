@@ -50,4 +50,4 @@ Then it loads like a gradient in the title.
 Card which is centered has a circular pfp, student id (name, ID, grade, School) and A qr code
 All elements are arranged vertically using a column and a spaced witj SizedBox
 
-![Screenshot of the app](id_app.png)
+![Screenshot of the app](id_app_src.png)
