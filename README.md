@@ -25,22 +25,22 @@ basecially the root widget of the app. Gives app-level settings like title.
 # Scaffold
 Just basic visual stucture nothing special. appBar. body, backgroundColor
 
-#AppBar
+# AppBar
 pretty much the header. Just displays "Student ID Card (real)" to prove its authenticity.
 
-#Card
+# Card
 gives this cool effect where the corners are all rounded upp, and stuff... also has shadows!
 
-#CircleAvatar
+# CircleAvatar
 Displays a jpg but in a circular manner. uses: "AssetImage('assets/profile.jpg')"
 
-#Text
+# Text
 Shows text visually.
 
-#SizedBox
+# SizedBox
 yeah this just adds some space between widgets
 
-#Image.asset
+# Image.asset
 this displays the QR code that is resized as 200x200.
 
 # other functionallity aka how this works
@@ -49,3 +49,5 @@ IdCardPage uses Scaffold for layout
 Then it loads like a gradient in the title.
 Card which is centered has a circular pfp, student id (name, ID, grade, School) and A qr code
 All elements are arranged vertically using a column and a spaced witj SizedBox
+
+![Screenshot of the app](id_app.png)
